@@ -41,7 +41,7 @@ dependencies:
   gtk: ^2.1.0
   handy_window: ^0.4.0
   html: ^0.15.4
-  intl: ^0.19.0
+  intl: ^0.20.0
   lastfm: ^0.0.6
   listenbrainz_dart: ^0.0.4
   m3u_parser_nullsafe: ^1.0.3
